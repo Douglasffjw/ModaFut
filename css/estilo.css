@@ -223,9 +223,7 @@ header.sticky{
 .box{
 	position: relative;
 	transition: all .40s ease;
-	border-style: groove;
-	border-radius: 5%;
-	border-width: 3px;
+	
 
 }
 .cam{
