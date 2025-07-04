@@ -23,5 +23,5 @@ Deixei somente o Reposítorio aqui ;)
 
 > Whatsapp: 85 989712043 
 
-> Insta: @_dougl4z
+
 
